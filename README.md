@@ -6,7 +6,6 @@ Full Stack Web Developer
 
 I'm a Full Stack Developer with expertise in Django and the MERN stack (MongoDB, Express, React, Node.js), focused on building scalable applications. I also have experience in AI and Machine Learning, applying data-driven solutions to real-world projects. Passionate about creating efficient backends, engaging frontends, and integrating AI models, I'm always open to collaboration and contributing to impactful projects.
 
-* 🌍  I'm based in India
 * ✉️  You can contact me at [akashchoudhary436@gmail.com](mailto:akashchoudhary436@gmail.com)
 * 🧠  I'm learning Java Programming
 
