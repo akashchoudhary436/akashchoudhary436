@@ -26,6 +26,9 @@ src="https://img.shields.io/github/followers/akashchoudhary436?logo=github&style
 
 ### Badges
 
+## ⭐ Open Source Badges: 
+[![An image of @anikesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akashchoudhary436)](https://holopin.io/@akashchoudhary436)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/akashchoudhary436"><img src="https://github-readme-stats.vercel.app/api?username=akashchoudhary436&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="akashchoudhary436's GitHub stats" /></a>
