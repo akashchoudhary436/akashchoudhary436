@@ -29,12 +29,6 @@ src="https://img.shields.io/github/followers/akashchoudhary436?logo=github&style
 ## ⭐ Open Source Badges: 
 [![An image of @anikesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akashchoudhary436)](https://holopin.io/@akashchoudhary436)
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/akashchoudhary436"><img src="https://github-readme-stats.vercel.app/api?username=akashchoudhary436&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="akashchoudhary436's GitHub stats" /></a>
-
-<a href="http://www.github.com/akashchoudhary436"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akashchoudhary436&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/akashchoudhary436/NutriCraft-ML-recommendation-Django" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akashchoudhary436&repo=NutriCraft-ML-recommendation-Django&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/akashchoudhary436/Fastshare" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akashchoudhary436&repo=Fastshare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
